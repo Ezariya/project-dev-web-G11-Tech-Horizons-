@@ -1,0 +1,2 @@
+# project dev web G11(Tech Horizons)
+ L'application vise à offrir une solution complète de gestion des contenus, intégrant des  fonctionnalités adaptées à divers profils d’utilisateurs : invités, abonnés, responsables  de thèmes, et éditeurs. Les utilisateurs peuvent gérer des abonnements, proposer des  articles, suivre des publications, modérer des conversations, et consulter des  statistiques détaillées.
